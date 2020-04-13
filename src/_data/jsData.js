@@ -1,0 +1,1 @@
+module.exports = "Global value from _data/jsData.js";
